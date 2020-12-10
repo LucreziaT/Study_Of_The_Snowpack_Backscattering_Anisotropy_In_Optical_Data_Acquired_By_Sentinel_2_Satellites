@@ -1,0 +1,1 @@
+# Study_Of_The_Snowpack_Backscattering_Anisotropy_In_Optical_Data_Acquired_By_Sentinel_2_Satellites
