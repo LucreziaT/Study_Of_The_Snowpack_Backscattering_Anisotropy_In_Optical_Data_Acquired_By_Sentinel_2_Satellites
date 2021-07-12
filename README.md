@@ -1,2 +1,2 @@
 # Study_Of_The_Snowpack_Backscattering_Anisotropy_In_Optical_Data_Acquired_By_Sentinel_2_Satellites
-[TesiTrentoInglese.pdf](https://github.com/LucreziaT/Study_Of_The_Snowpack_Backscattering_Anisotropy_In_Optical_Data_Acquired_By_Sentinel_2_Satellites/files/6802044/TesiTrentoInglese.pdf)
+[TosatoLucreziaThesis.pdf](https://github.com/LucreziaT/Study_Of_The_Snowpack_Backscattering_Anisotropy_In_Optical_Data_Acquired_By_Sentinel_2_Satellites/files/6802044/TesiTrentoInglese.pdf)
